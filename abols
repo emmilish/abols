@@ -1,1 +1,4 @@
-
+rs4-analyzer/
+data_handler.py     # Modulis datu ielādei un apstrādei(klases ,saraksti, funkcijas)
+statistics.py       # Modulis datu analīzei (klases, metodes ar matplotlib)
+main.py             # Galvenais izpildes fails
