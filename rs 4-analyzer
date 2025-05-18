@@ -1,1 +1,8 @@
+rs4-analyzer/
+│
+├── data_handler.py     ← 1. fails (klase un dati)
+├── statistics.py       ← 2. fails (analīze un vizualizācija)
+├── main.py             ← 3. fails (galvenais izpildes fails)
+├── requirements.txt    ← izmantotās bibliotēkas (piemēram, matplotlib)
+└── README.md           ← projekta apraksts
 
